@@ -1,0 +1,6 @@
+[submodule "lib/raylib.zig"]
+	path = lib/raylib.zig
+	url = git@github.com:ryupold/raylib.zig.git
+[submodule "lib/zware"]
+	path = lib/zware
+	url = git@github.com:malcolmstill/zware.git
